@@ -1963,7 +1963,7 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@ducanh2912/next-pwa@9.2.1":
+"@ducanh2912/next-pwa@^9.1.4":
   version "9.2.1"
   resolved "https://registry.yarnpkg.com/@ducanh2912/next-pwa/-/next-pwa-9.2.1.tgz#85be3978961afa9bfc8680cfd5509219c0dc699c"
   integrity sha512-oucSNTBMIWorSgDPyffsckBxDCvn23buLFfwdSwtQlKQXjg+L3fNXhj6vNKDzDXHvEimoQNP3Pn8xrl1s+5cdw==
